@@ -1,2 +1,3 @@
-usr/include/*
-usr/lib/libg15*.a
+debian/tmp/usr/include/*
+debian/tmp/usr/lib/*/lib*.a
+debian/tmp/usr/lib/*/lib*.so

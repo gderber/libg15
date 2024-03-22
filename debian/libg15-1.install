@@ -1,2 +1,2 @@
-usr/lib/libg15*.so*
-usr/lib/libg15.so
+debian/tmp/usr/lib/*/lib*.so.*
+
